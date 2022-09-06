@@ -1,4 +1,4 @@
-## Hey guys, This is ChrisWhite 😃
+## Hey Guys, This is ChrisWhite 😃
 
 
 
