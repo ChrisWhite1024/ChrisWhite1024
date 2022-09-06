@@ -1,5 +1,10 @@
-## Hey Guys, This is ChrisWhite 😃
+## Hey Guys, This is Chris White 😃
 
+- 🏫 I am an undergraduate student major in Network Security.
+- 💻 New to competitive programming.
+- 🎵 I like music, especially classical music and electronic music. By the way, I'm a clarinet player 🎼 and a crazy fan of Hatsune Miku.
+- 🏃🏻 A healthy body is the foundation of everything, exercise has helped me a lot in my daily life.
+- 📞Telegram: [@ChrisWhite333](https://t.me/ChrisWhite333)
 
 
 <div style="display: flex; align-content: flex-start; flex-flow: row wrap;"> 
