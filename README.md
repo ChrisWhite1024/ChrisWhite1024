@@ -2,7 +2,7 @@
 
 - 🏫 I am an undergraduate student major in Network Security.
 - 💻 New to competitive programming.
-- 🎵 I like music, especially classical music and electronic music. By the way, I'm a clarinet player 🎼 and a crazy fan of Hatsune Miku.
+- 🎵 I like music, especially classical music and electronic music. By the way, I'm a clarinet player 🎼 and a crazy fan of Hatsune Miku.<a href="https://emoji.gg/emoji/2565-miku"><img src="https://cdn3.emoji.gg/emojis/2565-miku.png" width="32px" height="32px" alt="miku"></a>
 - 🏃🏻 A healthy body is the foundation of everything, exercise has helped me a lot in my daily life.
 - 📞Telegram: [@ChrisWhite333](https://t.me/ChrisWhite333)
 
