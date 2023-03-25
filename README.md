@@ -7,8 +7,5 @@
 - 🤔 Don't like politics, so please don't talk to me about this, my account only represents myself and doesn't belong to anyone else.
 - 📞Telegram: [@ChrisWhite333](https://t.me/ChrisWhite333)
 
-
-<div style="display: flex; align-content: flex-start; flex-flow: row wrap;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisWhite1024&show_icons=true&icon_color=39C5BB&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrisWhite1024&layout=compact&count_private=true" />
-</div>
+![ChrisWhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisWhite1024&theme=buefy&show_icons=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWhite1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
