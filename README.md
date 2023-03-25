@@ -4,7 +4,7 @@
 - 💻 New to competitive programming.
 - 🎵 I like music, especially classical music and electronic music. By the way, I'm a clarinet player 🎼 and a crazy fan of Hatsune Miku <a href="https://emoji.gg/emoji/2565-miku"><img src="https://cdn3.emoji.gg/emojis/2565-miku.png" width="20px" height="20px" alt="miku"></a>.
 - 🏃🏻 A healthy body is the foundation of everything, exercise has helped me a lot in my daily life.
-- 🤔 Don't like politics, please don't talk to me about this, my github account only represents myself and doesn't belong to anyone else
+- 🤔 Don't like politics, please don't talk to me about this, my github account only represents myself and doesn't belong to anyone else.
 - 📞Telegram: [@ChrisWhite333](https://t.me/ChrisWhite333)
 
 
