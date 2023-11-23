@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/ChrisWhite1024">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisWhite1024&theme=buefy&show_icons=true&hide_title=true&hide_border=true" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ChrisWhite1024&theme=buefy&show_icons=true&hide_title=true&hide_border=true" />
   </a>
   <a href="https://github.com/ChrisWhite1024">
     <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChrisWhite&theme=buefy&layout=compact&hide_border=true" />
