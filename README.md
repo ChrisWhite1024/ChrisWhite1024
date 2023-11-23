@@ -1,6 +1,6 @@
 ## Hey Guys, This is Chris White 😃
 
-[![wakatime](https://wakatime.com/badge/user/018bf9af-5143-4280-a3bc-1ada2986c435.svg)](https://wakatime.com/@018bf9af-5143-4280-a3bc-1ada2986c435)
+![Hits](https://hits-app.vercel.app/hits?url=https://wh1te.dev)
 
 - 🏫 Undergraduate majoring in Network Security.
 - 💻 New to competitive programming.
