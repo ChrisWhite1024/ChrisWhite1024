@@ -8,6 +8,10 @@
 - 👟 A healthy body is the foundation of everything, exercise has helped me a lot in my daily life.
 - 🤔 Not into politics, so please don't talk to me about that, my account only represents myself and doesn't belong to anyone else.
 
+<br/>
+
+---
+
 <div>
   <a href="https://github.com/ChrisWhite1024">
     <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=ChrisWhite1024&theme=buefy&show_icons=true&hide_title=true&hide_border=true" />
