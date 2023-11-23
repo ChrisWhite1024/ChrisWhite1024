@@ -8,8 +8,6 @@
 - 👟 A healthy body is the foundation of everything, exercise has helped me a lot in my daily life.
 - 🤔 Not into politics, so please don't talk to me about that, my account only represents myself and doesn't belong to anyone else.
 
-<br/>
-
 ---
 
 <div>
