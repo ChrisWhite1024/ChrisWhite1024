@@ -1,6 +1,6 @@
 ## Hey Guys, This is Chris White 😃
 
-![Hits](https://hits-app.vercel.app/hits?url=https://wh1te.dev)
+![Hits](https://hits-app.vercel.app/hits?url=https://github.com/ChrisWhite1024)
 
 - 🏫 Undergraduate majoring in Network Security.
 - 💻 New to competitive programming.
