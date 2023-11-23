@@ -1,5 +1,7 @@
 ## Hey Guys, This is Chris White 😃
 
+[![wakatime](https://wakatime.com/badge/user/018bf9af-5143-4280-a3bc-1ada2986c435.svg)](https://wakatime.com/@018bf9af-5143-4280-a3bc-1ada2986c435)
+
 - 🏫 Undergraduate majoring in Network Security.
 - 💻 New to competitive programming.
 - 🎵 I like music, especially classical. Btw, I'm a clarinet player 🎼 and a crazy fan of Hatsune Miku <a href="https://emoji.gg/emoji/2565-miku"><img src="https://cdn3.emoji.gg/emojis/2565-miku.png" width="20px" height="20px" alt="miku"></a>.
